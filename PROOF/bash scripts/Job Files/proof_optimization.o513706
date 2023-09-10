@@ -1,0 +1,20 @@
+Generation size: 100000
+Population size: 20000
+Elite factor: 0.05
+Mutation factor: 0.0
+/users/PAS1495/dtuthill/6820/bigdata_6820-dtuthill/finalProject/PROOF
+
+-----------------------
+Resources requested:
+nodes=1:ppn=1
+mem=1000mb
+-----------------------
+Resources used:
+cput=04:34:06
+walltime=04:35:01
+mem=0.042GB
+vmem=0.555GB
+-----------------------
+Resource units charged (estimate):
+0.458 RUs
+-----------------------

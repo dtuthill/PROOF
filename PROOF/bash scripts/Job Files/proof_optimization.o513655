@@ -1,0 +1,21 @@
+Generation size: 100000
+Population size: 20000
+Elite factor: 0.0
+Mutation factor: 0.20
+/users/PAS1495/dtuthill/6820/bigdata_6820-dtuthill/finalProject/PROOF
+=>> PBS: job killed: walltime 43214 exceeded limit 43200
+
+-----------------------
+Resources requested:
+nodes=1:ppn=1
+mem=1000mb
+-----------------------
+Resources used:
+cput=11:58:20
+walltime=12:00:14
+mem=0.044GB
+vmem=0.555GB
+-----------------------
+Resource units charged (estimate):
+1.200 RUs
+-----------------------
